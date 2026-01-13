@@ -64,3 +64,13 @@ node_modules/
 13. inicializar git, T: git init
 
 14. palete comand: Live server: open with live server
+
+15. add "src/styles.css":
+
+````
+@layer base {
+  body {
+    @apply bg-slate-800 px-4 py-2 text-white;
+  }
+}
+````
