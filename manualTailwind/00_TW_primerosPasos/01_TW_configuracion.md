@@ -61,4 +61,6 @@ dist/
 node_modules/
 .env
 ````
-13.inicializar git, T: git init
+13. inicializar git, T: git init
+
+14. palete comand: Live server: open with live server
