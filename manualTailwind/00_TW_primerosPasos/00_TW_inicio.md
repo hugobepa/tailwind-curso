@@ -75,5 +75,3 @@ div: grid sm:grid-cols-3 (pant. pequeña 1 col, pant med. 2 col)
 - grid-cols-n : numero celdas horizontal
 - gap-n: separacion entre celdas
 - px-n: padding horitonal entre elementos
-
-h
