@@ -1,6 +1,10 @@
 @import "tailwindcss";
 @layer base {
   body {
-    @apply bg-slate-800 px-4 py-2 text-white;
+    @apply bg-slate-800 p-8 px-4 py-2 text-white;
+  }
+
+  h1 {
+    @apply mb-2 text-3xl font-bold;
   }
 }
